@@ -1,0 +1,14 @@
+C:\Users\przyb\Desktop\Pizzeria\bin\Debug\net9.0\Pizzeria.exe
+C:\Users\przyb\Desktop\Pizzeria\bin\Debug\net9.0\Pizzeria.deps.json
+C:\Users\przyb\Desktop\Pizzeria\bin\Debug\net9.0\Pizzeria.runtimeconfig.json
+C:\Users\przyb\Desktop\Pizzeria\bin\Debug\net9.0\Pizzeria.dll
+C:\Users\przyb\Desktop\Pizzeria\bin\Debug\net9.0\Pizzeria.pdb
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\Pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\Pizzeria.AssemblyInfoInputs.cache
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\Pizzeria.AssemblyInfo.cs
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\Pizzeria.dll
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\refint\Pizzeria.dll
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\Pizzeria.pdb
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\Pizzeria.genruntimeconfig.cache
+C:\Users\przyb\Desktop\Pizzeria\obj\Debug\net9.0\ref\Pizzeria.dll

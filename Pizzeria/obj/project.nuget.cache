@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7jGOdD+BRQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\przyb\\Desktop\\Pizzeria\\Pizzeria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\przyb\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
