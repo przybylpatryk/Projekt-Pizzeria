@@ -1,13 +1,14 @@
-﻿namespace Pizzeria
+﻿using System;
+using Pizzeria.menus;
+
+namespace Pizzeria
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            while (true)
-            {
-                //menu
-            }
+            LoggingMenu men = new LoggingMenu();
+            men.Menu();
         }
     }
 }
